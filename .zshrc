@@ -102,4 +102,3 @@ source $ZSH/oh-my-zsh.sh
 
 
 export CHROME_EXECUTABLE=/usr/bin/brave-browser
-
